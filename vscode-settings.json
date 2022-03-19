@@ -1,0 +1,62 @@
+{
+    "window.zoomLevel": 1,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 4,
+    "editor.autoClosingDelete": "always",
+    "editor.autoClosingQuotes": "always",
+    "css.enabledLanguages": ["html", "vue"],
+    "editor.fontFamily": "Fira Code",
+    "editor.lineHeight": 20,
+    "editor.fontSize": 12,
+    "editor.fontLigatures": true,
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorBlinking": "solid",
+    "[javascript]": {
+        "editor.bracketPairColorization.enabled": true,
+        "editor.language.colorizedBracketPairs": [
+            ["[", "]"],
+            ["(", ")"],
+            ["{", "}"]
+        ]
+    },
+    "[typescript]": {
+        "editor.bracketPairColorization.enabled": true,
+        "editor.language.colorizedBracketPairs": [
+            ["[", "]"],
+            ["(", ")"],
+            ["{", "}"]
+        ]
+    },
+    "[html]": {
+        "editor.bracketPairColorization.enabled": true,
+        "editor.language.colorizedBracketPairs": [
+            ["[", "]"],
+            ["(", ")"],
+            ["{", "}"]
+        ]
+    },
+    "[vue]": {
+        "editor.bracketPairColorization.enabled": true,
+        "editor.language.colorizedBracketPairs": [
+            ["[", "]"],
+            ["(", ")"],
+            ["{", "}"]
+        ]
+    },
+    "explorer.decorations.badges": false,
+    "workbench.colorTheme": "Community Material Theme Ocean",
+    "workbench.editor.highlightModifiedTabs": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": false,
+    "prettier.tabWidth": 4,
+    "explorer.sortOrder": "type",
+    "files.trimFinalNewlines": true,
+    "debug.javascript.autoAttachFilter": "disabled"
+}
